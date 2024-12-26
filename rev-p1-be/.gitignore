@@ -1,0 +1,11 @@
+target/
+h2/
+history_log.txt
+testCases_log.txt
+restructure_tmp/
+restructured_labs/
+.revature/tmp
+.idea/
+.vscode
+src/main/resources/application.properties
+TODO.md
